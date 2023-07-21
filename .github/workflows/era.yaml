@@ -75,16 +75,20 @@ jobs:
           files: |
             ./publish/*
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS }}
 
-      - name: Git push assets to "release" branch
+
+      - name: Git update main branch assets
         run: |
-          cd publish || exit 1
-          git init
-          git config --local user.name "actions"
+          git clone https://github.com/oluceps/nixyDomains.git
+          cp -r ./publish/* nixyDomains/
+
+          cd nixyDomains
+          git config --local user.name "[bot]actions"
           git config --local user.email "action@github.com"
-          git checkout -b release
           git add .
+        
           git commit -m "${{ env.RELEASE_NAME }}"
-          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git push -f -u origin release
+          git remote rm origin
+          git remote add origin "https://${{ github.actor }}:${{ secrets.ACCESS }}@github.com/${{ github.repository }}"
+          git push origin main -f
