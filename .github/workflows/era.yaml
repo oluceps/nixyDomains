@@ -81,7 +81,7 @@ jobs:
       - name: Git update main branch assets
         run: |
           git clone https://github.com/oluceps/nixyDomains.git
-          cp -r ./publish/* nixyDomains/
+          cp -r ./publish/* nixyDomains/assets/
 
           cd nixyDomains
           git config --local user.name "[bot]actions"
