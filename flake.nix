@@ -13,7 +13,7 @@
       perSystem = { config, self', inputs', pkgs, system, ... }: {
         packages.default = with pkgs; stdenv.mkDerivation {
           name = "domains";
-          src = ./.;
+          src = ./assets;
         };
       };
     };
