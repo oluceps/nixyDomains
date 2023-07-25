@@ -1,17 +1,14 @@
 adobeereg.com
 anime-rule34-world.b-cdn.net
-apple.com.akadns.net
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
 cisco.evergage.com
-courier-push-apple.com.akadns.net
 crl.versign.net
 databank.worldbank.org
 default.exp-tas.com
 deutschewelle.h-cdn.com
 dl.begellhouse.com
-e122475.dscg.akamaiedge.net
 f3b7q2p3.ssl.hwcdn.net
 faronics.kayako.com
 firstsearch.oclc.org
@@ -32,7 +29,6 @@ practivate.adobe
 practivate.adobe.ipp
 practivate.adobe.newoa
 practivate.adobe.ntp
-push-apple.com.akadns.net
 rink.hockeyapp.net
 sa78gs.wpc.edgecastcdn.net
 sni1dcb6gl.wpc.edgecastcdn.net
@@ -40,7 +36,6 @@ spotify.com.edgesuite.net
 tesla-cdn.thron.com
 vsmarketplacebadge.apphb.com
 widgets.stripst.com
-www-cdn.icloud.com.akadns.net
 01.org
 02weqj32.com
 04647.club
@@ -667,9 +662,11 @@ aka-ai.net
 akacrypto.net
 akadeem.net
 akadns.com
+akadns.net
 akadns6.net
 akaeai.com
 akafms.net
+akagtm.org
 akahost.net
 akaint.net
 akam.net
@@ -689,6 +686,7 @@ akamai-thailand.net
 akamai-trials.com
 akamai.com
 akamai.net
+akamaiedge.net
 akamaientrypoint.net
 akamaietpcnctest.com
 akamaietpcompromisedcnctest.com
@@ -703,6 +701,7 @@ akamainewzealand.com
 akamaiphillipines.com
 akamaiphillipines.net
 akamaisingapore.net
+akamaistream.net
 akamaitech.com
 akamaitech.net
 akamaitechnologies.com
@@ -1424,6 +1423,7 @@ avinin.com
 avizoon.site
 avizoone.com
 avjb.com
+avjoy.me
 avlulu.cc
 avmoo.click
 avmoo.com
@@ -3537,6 +3537,7 @@ dagfs.com
 dailybasis.com
 dailymail.com
 dailymailonline.com
+dailymotion.com
 dailyporn.club
 daindianporn.com
 dajiyuan.com
@@ -3882,6 +3883,8 @@ dlsite.com
 dlsitenews.com
 dlsitestudio.com
 dm
+dm-event.net
+dmcdn.net
 dmed.technology
 dmm-extension.com
 dmm.com
@@ -3923,6 +3926,7 @@ dnb
 dndbeyond.com
 dnp
 dnsvisa.com
+dnvodcdn.me
 do
 do.co
 dobbyporn.com
@@ -6847,6 +6851,7 @@ iamakamai.com
 iamakamai.net
 iamremarkable.org
 iana.org
+iavnight.com
 ibb.co
 ibeats-uk.com
 ibeatsbydre.cc
@@ -7349,7 +7354,6 @@ itsoc.org
 itu.int
 itunbes.com
 ituneas.com
-itunes-apple.com.akadns.net
 itunes-radio.net
 itunes.co
 itunes.com
@@ -9035,6 +9039,7 @@ muncloud.dog
 muryouav.net
 muscdn.com
 musclegirlflix.com
+mushroomtrack.com
 musical.ly
 musicbay.net
 musickit.net
@@ -9815,6 +9820,7 @@ oldje.com
 oldnavy
 olehd.com
 olelive.com
+olemovienews.com
 olevod.com
 olevodtv.com
 oli-school.com
@@ -11947,12 +11953,10 @@ skyassets.com
 skydrive
 skyoceanrescue.com
 skype
-skype-edf.akadns.net
 skype.com
 skype.net
 skypeassets.com
 skypeassets.net
-skypedata.akadns.net
 skyporn.online
 skysports.com
 skysportsonline.com
@@ -12741,6 +12745,7 @@ thomsonreuters.com
 thomsonreutersmexico.com
 thottok.com
 thotvids.com
+threads.net
 thrixxx.com
 thtmod1.com
 thumbnailseries.com
