@@ -20,10 +20,8 @@ licdn.cn.cdn20.com
 link.theplatform.com
 mdn.mozillademos.org
 medone-education.thieme.com
-netflix.com.edgesuite.net
 okaapps.com
 ood.opsource.net
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 p16-tiktokcdn-com.akamaized.net
 practivate.adobe
 practivate.adobe.ipp
@@ -32,7 +30,6 @@ practivate.adobe.ntp
 rink.hockeyapp.net
 sa78gs.wpc.edgecastcdn.net
 sni1dcb6gl.wpc.edgecastcdn.net
-spotify.com.edgesuite.net
 tesla-cdn.thron.com
 vsmarketplacebadge.apphb.com
 widgets.stripst.com
@@ -861,6 +858,7 @@ amazon-jp-recruiting.com
 amazon-lantern.com
 amazon-launchpad.com
 amazon.com
+amazon.dev
 amazon.jobs
 amazon.red
 amazonalexavoxcon.com
@@ -1524,6 +1522,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azurefd.net
 azureiotcentral.com
 azureiotsolutions.com
 azureiotsuite.com
@@ -3028,6 +3027,8 @@ cheapsalemonster.com
 cheapshoesvip.com
 cheapwireless04.com
 cheapwirelessbeats.com
+chegg.com
+cheggcdn.com
 chemequations.com
 chemnetbase.com
 chengjuanseo.com
@@ -3204,6 +3205,7 @@ cloudflarestorage.com
 cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
+cloudfront.com
 cloudfront.net
 cloudfunctions.net
 cloudhealthtech.com
@@ -3219,6 +3221,7 @@ cloudvolumes.com
 cloudyzgirl.com
 cloupia.com
 cloupia.net
+clubhouse.com
 clubhouseapi.com
 clubmed
 clubseventeen.com
@@ -4365,6 +4368,7 @@ edge.steam-dns.top.comcast.net
 edgedatg.com
 edgefonts.net
 edgemeplease.com
+edgesuite.net
 edisebay.com
 editorx.com
 edninfo.com
@@ -4473,6 +4477,7 @@ entrust.net
 entrustdatacard.com
 epicbrowser.com
 epicgames.com
+epicgames.dev
 epicreads.com
 epigeum.com
 epikporn.com
@@ -5245,6 +5250,7 @@ fontsinuse.com
 food
 foodnetwork
 foofle.com
+footprintdns.com
 footseen.com
 footstockings.com
 forbes.com
@@ -6188,7 +6194,6 @@ hbfile.net
 hbo
 hbo.com
 hbo.com.c.footprint.net
-hbo.com.edgesuite.net
 hboasia.com
 hbogo.com
 hbogoasia.com
@@ -7701,6 +7706,9 @@ kaggle.com
 kaggle.net
 kaggleusercontent.com
 kairakudoujin.net
+kakao.com
+kakaocdn.net
+kakaocorp.com
 kaktuz.com
 kali.org
 kamababa.com
@@ -8407,6 +8415,7 @@ matrix.org
 mattel
 matters.news
 matters.one
+matters.town
 mature-amateur-sex.com
 mature-porn-flix.com
 matureclub.com
@@ -11023,6 +11032,7 @@ qmov.com
 qmov.net
 qmttqg3k.me
 qombol.com
+qooqlevideo.com
 qorno.com
 qprize.com
 qq.design
@@ -11103,6 +11113,7 @@ rarbgprx.org
 rarbgto.org
 rarbgunblock.com
 rarbgunblock.org
+rarbgunblocked.org
 rarbgway.org
 raspberrypi.org
 raspbian.org
