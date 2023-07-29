@@ -456,6 +456,7 @@ addthiscdn.com
 addthisedge.com
 addtoany.com
 adgoogle.net
+adguard-dns.com
 adguard-vpn.com
 adguard.com
 adhelpnews.com
@@ -1217,6 +1218,7 @@ aramco
 arcadewank.com
 arcgis.com
 arcgisonline.com
+archive-it.org
 archive.org
 archiveofourown.com
 archiveofourown.net
@@ -9925,6 +9927,7 @@ opengraphprotocol.com
 opengraphprotocol.org
 opengw.net
 openjsf.org
+openlibrary.org
 openmaps.org
 openmidas.com
 openresty.org
