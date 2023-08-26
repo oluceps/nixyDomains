@@ -10049,7 +10049,6 @@ battery-expo.com
 batterydir.com
 batterykey.com
 battlecare.net
-battlenet.com.cn
 battleofballs.com
 batupian.net
 baudu.com
@@ -11361,9 +11360,7 @@ bling.link
 blingabc.com
 blingclubs.com
 blissmall.net
-blizzard.cn
 blizzardcn.com
-blizzardgames.cn
 blizztc.com
 bljiancai.com
 bln7.com
@@ -11439,8 +11436,6 @@ bluestar-pc.com
 bluestep.cc
 blw.moe
 blyun.com
-blz.nosdn.127.net
-blzstatic.cn
 bm001.com
 bm777777.com
 bm8.tv
@@ -11477,7 +11472,6 @@ bnbtrip.com
 bnc66.com
 bnchina.com
 bncwork.com
-bnet.163.com
 bnhgsb.com
 bnhshiguan.com
 bnjyks.com
@@ -15534,7 +15528,6 @@ cn-southwest-2.myhuaweicloud.com
 cn-truck.com
 cn-visa.com
 cn-zhentai.com
-cn.actual.battle.net
 cn.bing.com
 cn.bing.net
 cn.msi.com
@@ -18429,10 +18422,8 @@ dhygw2999.com
 dhygw488.com
 dhyjaqa.com
 dhyz.net
-di.res.netease.com
 di3fang.com
 di3fang.vip
-diablo3.nosdn.127.net
 diablohu.com
 diaidi.com
 diaigame.com
@@ -26558,7 +26549,6 @@ healthr.com
 healthych.com
 hearstchina.com
 heart-game.com
-hearthstone.nosdn.127.net
 heartide.com
 heartinsti.com
 heataek.com
@@ -26801,7 +26791,6 @@ here120.com
 here325.com
 hermesguanwang.com
 heroad-data.com
-heroes.nos.netease.com
 heroestactics.com
 heroicyang.com
 herosanctuary.com
@@ -42509,7 +42498,6 @@ ovear.info
 oversearecruit.com
 overtrue.me
 overturechina.com
-overwatch.nosdn.127.net
 ovicnet.com
 ovital.com
 ovital.net
@@ -47015,7 +47003,6 @@ sc119.cc
 sc157.com
 sc1588.com
 sc1618.com
-sc2.nosdn.127.net
 sc2c.com
 sc2car.com
 sc2p.com
@@ -57381,7 +57368,6 @@ wotrus.com
 wotucdn.com
 wotula.com
 wouju.com
-wow.nosdn.127.net
 wowant.com
 wowar.com
 wowcat.net
