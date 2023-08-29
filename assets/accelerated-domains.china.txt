@@ -1319,7 +1319,6 @@
 169163.com
 169369.com
 1696.com
-1697499.com
 16999.com
 169gold.net
 169it.com
@@ -4032,6 +4031,7 @@
 51xiaolu.com
 51xie.com
 51xingjy.com
+51xinhu.com
 51xinyuan.com
 51xnj.com
 51xpj.com
@@ -5854,7 +5854,6 @@
 83830.com
 838dz.com
 83990567.com
-83dd.com
 83edu.net
 83h87d.com
 83jie.com
@@ -9741,7 +9740,6 @@ baixiangxiang.com
 baixiaosheng.net
 baixing.com
 baixing.net
-baixingcdn.com
 baixingjd.com
 baixiu.org
 baiyangwang.com
@@ -15879,7 +15877,6 @@ cnntt.com
 cnnuo.com
 cnnvisa.com
 cnobol.com
-cnohd.com
 cnoic.com
 cnoil.com
 cnol.cc
@@ -19933,9 +19930,6 @@ dyrbw.com
 dyrcb.net
 dyrjjt.com
 dytechnolog.com
-dytg389.xyz
-dytg390.xyz
-dytg391.xyz
 dytt789.com
 dytt7899.com
 dytt8.com
@@ -22914,7 +22908,6 @@ fujinjiazheng.com
 fuka.cc
 fukeha.com
 fulantv.com
-fuli.la
 fuli1024.com
 fuli404.net
 fuliansheng.com
@@ -26286,6 +26279,7 @@ hblykj.com
 hbm360.com
 hbmes.com
 hbmmtt.com
+hbn68.com
 hbnews.net
 hbnewsoft.com
 hbneww.com
@@ -26710,7 +26704,6 @@ henangeli.com
 henanjianling.com
 henanjubao.com
 henansyj.com
-henanyouth.com
 henbt.com
 hencin.com
 hencoder.com
@@ -26936,6 +26929,7 @@ hhh233.net
 hhh885.com
 hhhoo.com
 hhhstz.com
+hhhtfin.com
 hhhtnews.com
 hhhtscf.com
 hhjtwl.com
@@ -33995,7 +33989,6 @@ kaoyancas.net
 kaoyango.com
 kaoyanjun.com
 kaoyansiji.com
-kaoyanzhijia.org
 kaoyaya.com
 kaozhiye.com
 kaquanbao.com
@@ -34305,7 +34298,6 @@ kimqi.net
 kimsom.com
 kina.cc
 kindeditor.net
-kindle-china.org
 kindle.cn
 kindlehub.mobi
 kindlelib.com
@@ -35205,7 +35197,6 @@ kzepp.com
 kzerr.com
 kzett.com
 kzeww.com
-kzore.com
 kzqs.com
 kzread.com
 kzt.cc
@@ -38023,7 +38014,6 @@ maimemo.com
 maimemostatus.com
 maimiaotech.com
 maimn.com
-maimowang.com
 mainaer.com
 maine1688.com
 mainlandip.com
@@ -40658,6 +40648,7 @@ narrowad.com
 naruto.red
 narutom.com
 nas66.com
+nasack.net
 nase.tech
 nasgetinfo.com
 nashwork.com
@@ -43525,6 +43516,7 @@ pnzpw.com
 po.co
 pobaby.net
 pobasoft.com
+pocidian.com
 pocketdigi.com
 pocketuni.net
 pocomagnetic.com
@@ -43996,6 +43988,7 @@ pxc33.com
 pxcn168.com
 pxdier.net
 pxemba.com
+pxhuiben.com
 pxtop1.com
 pxtsc.com
 pxtu.com
@@ -46426,7 +46419,6 @@ rqjrb.com
 rqkr.com
 rqz1.com
 rr-sc.com
-rr.tv
 rr365.com
 rrb365.com
 rrbay.com
@@ -50723,7 +50715,6 @@ sxd408.com
 sxdkj.com
 sxdygbjy.com
 sxdzyp.com
-sxemc.com
 sxepc.com
 sxfblog.com
 sxfoundation.com
@@ -51707,6 +51698,7 @@ tdnsv2.com
 tdnsv3.com
 tdnsv5.com
 tdnsv6.com
+tdnsv7.com
 tdnsv8.com
 tdnsx1.com
 tdotapp.com
@@ -52092,7 +52084,6 @@ thhymj.com
 thief.im
 thinbug.com
 thingjs.com
-thingtry.com
 think-mall.com
 thinkcmf.com
 thinkdream.com
@@ -62070,6 +62061,7 @@ yongche.name
 yongche.org
 yongchengren.com
 yongdatang.com
+yongfan99.com
 yonghejinrong.com
 yongheng.online
 yonghongtech.com
