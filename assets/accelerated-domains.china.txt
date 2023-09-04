@@ -965,7 +965,6 @@
 1234.cx
 1234001.com
 123456.la
-123456img.com
 12345good.com
 12345good.net
 12348.net
@@ -1877,7 +1876,6 @@
 202wan.com
 2048sj.com
 2049baby.com
-205.com
 2080ly.com
 208xs.com
 20ju.com
@@ -9389,7 +9387,6 @@ aybwg.org
 aycav.com
 ayfdc.com
 ayfy.com
-ayginsporkompleksi.com
 ayguge.com
 ayhthc.com
 ayhuowan.com
@@ -12816,7 +12813,6 @@ cctiedu.com
 cctime.com
 cction.com
 cctlife.com
-cctmsy.com
 cctocloud.com
 cctpress.com
 cctry.com
@@ -13382,7 +13378,6 @@ cguardian.com
 cguiw.com
 cgvoo.com
 cgwang.com
-cgwell.com
 cgwenjian.com
 cgwic.com
 cgws.com
@@ -15721,7 +15716,6 @@ cnhalo.net
 cnhan.com
 cnhanxing.com
 cnhaoshengyi.com
-cnhaskell.com
 cnhbstock.com
 cnhbtc.com
 cnhd.com
@@ -19916,7 +19910,6 @@ dytt789.com
 dytt7899.com
 dytt8.com
 dytt8.net
-dyxf365.com
 dyxldjy.com
 dyxsdwm.com
 dyxtw.com
@@ -21293,7 +21286,6 @@ examda.com
 examebook.com
 examk.com
 exampx.com
-examw.com
 exands.com
 exaphotons.com
 exasic.com
@@ -25920,7 +25912,6 @@ haohead.com
 haohiyou.com
 haohongfan.com
 haoht123.com
-haohtml.com
 haohuan.com
 haohuo.xin
 haohuoa.com
@@ -29028,7 +29019,6 @@ hzwindpower.com
 hzwmw.com
 hzwsjyjt.com
 hzwtech.com
-hzwxq.com
 hzwyx.net
 hzxhymc.com
 hzxiaobao.com
@@ -32463,7 +32453,6 @@ jiuishizanjin.com
 jiujiange.com
 jiujiuhuyu.com
 jiujiui.com
-jiujiukanpian.com
 jiujiunn.com
 jiujiups.com
 jiujiuwan.com
@@ -32647,7 +32636,6 @@ jjzdm.com
 jjzfgjj.com
 jk-px.com
 jk126.com
-jk130.com
 jk2h.com
 jk37du.com
 jk3a.com
@@ -42229,7 +42217,6 @@ originlee.com
 originoo.com
 orihard.com
 oritive.com
-oriziomodelli.com
 orleto.com
 ornglad.com
 orsoon.com
@@ -44964,7 +44951,6 @@ qmwtp.com
 qmwyy.com
 qmyq.com
 qmz5.com
-qmzh100.com
 qmzs.com
 qnap.com.cn
 qnbar.com
@@ -48045,7 +48031,6 @@ sheying001.net
 sheyingtg.com
 shezaixian.com
 shezhan88.com
-shfangquan.com
 shfangshui.com
 shfcw.com
 shfdyk.com
@@ -55947,7 +55932,6 @@ weiju.net
 weijuju.com
 weikaowu.com
 weikasen.com
-weikd.com
 weike.fm
 weikebaba.net
 weikeimg.com
@@ -60079,7 +60063,6 @@ xuerentang.net
 xuermh.com
 xuesax.com
 xueseo.com
-xueshandai.com
 xueshanlinghu.com
 xueshen.net
 xueshiyun.com
