@@ -10228,6 +10228,7 @@ bdysite.com
 bdyz.xyz
 be-xx.com
 be90.com
+beacons-handoff.gcp.gvt2.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
