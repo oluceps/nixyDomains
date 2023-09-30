@@ -16624,6 +16624,7 @@ crimoon.net
 crispstata.com
 crjfw.com
 crl-lb.apple.com.akadns.net
+crl.alphassl.com
 crl.apple.com
 crl.globalsign.net
 crl.pki.goog
@@ -23953,6 +23954,7 @@ global-jf.com
 global-scsl.com
 global-tractor.com
 global-trade-center.com
+global.prd.cdn.globalsign.com
 globalaccentchinese.com
 globalbuy.cc
 globalcompressor.com
