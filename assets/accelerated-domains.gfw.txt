@@ -3,6 +3,7 @@ anime-rule34-world.b-cdn.net
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
+cdn-spotify-experiments.conductrics.com
 cisco.evergage.com
 crl.versign.net
 databank.worldbank.org
@@ -3191,6 +3192,7 @@ cloudconvert.com
 cloudcraze.com
 cloudcredibility.com
 cloudflare-dns.com
+cloudflare-ech.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
