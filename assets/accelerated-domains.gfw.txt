@@ -1227,6 +1227,7 @@ arcgis.com
 arcgisonline.com
 archive-it.org
 archive.org
+archive.today
 archiveofourown.com
 archiveofourown.net
 archiveofourown.org
@@ -12001,6 +12002,7 @@ simplyipod.com
 sing68.com
 singlelogin.app
 singlelogin.me
+singlelogin.site
 singtao.com
 singtaobooks.com
 singtaola.com
