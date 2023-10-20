@@ -3,6 +3,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 12,0 * * *'
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -77,18 +79,20 @@ jobs:
       #   env:
       #     GITHUB_TOKEN: ${{ secrets.ACCESS }}
 
+      - name: Checkout again
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          path: ./nixyDomains
 
       - name: Git update main branch assets
         run: |
-          git clone https://github.com/oluceps/nixyDomains.git
           cp -r ./publish/* nixyDomains/assets/
 
           cd nixyDomains
           git config --local user.name "[bot]actions"
           git config --local user.email "action@github.com"
-          git add .
         
-          git commit -m "${{ env.RELEASE_NAME }}"
-          git remote rm origin
-          git remote add origin "https://${{ github.actor }}:${{ secrets.ACCESS }}@github.com/${{ github.repository }}"
-          git push origin main -f
+          git commit -am "${{ env.RELEASE_NAME }}"
+
+          git push
