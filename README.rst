@@ -15,7 +15,15 @@ Add to your flake input
 
 use with, e.g.:
 
+package:
+
 ``files = [ "${inputs.nixyDomains.packages.x86_64-linux.default.src}/geosite.dat" ];``
 
+overlay:
 
-`My own use case <https://github.com/oluceps/nixos-config/commit/24e211c0766eeaedae06b0fda8a4a29de28d6b7d>`_
+``overlays = [inputs.nixyDomains.default];``
+
+``files = [ "${pkgs.nixy-domains.src}/geosite.dat" ];``
+
+
+`<https://github.com/oluceps/nixos-config/blob/38fa9a294427a431320c00a08b051026fdc9a163/services.nix#L189>`_
