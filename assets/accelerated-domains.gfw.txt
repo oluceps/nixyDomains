@@ -8655,6 +8655,7 @@ microsoftsilverlight.net
 microsoftsilverlight.org
 microsoftsiteselection.com
 microsoftsqlserver.com
+microsoftstart.com
 microsoftstore.com
 microsoftstream.com
 microsoftteams.com
@@ -10440,6 +10441,8 @@ physiology.org
 piaget
 piapro.net
 picacg2022.com
+picacgp.com
+picacgy.com
 picacn.xyz
 picacomic.com
 picacomic.xyz
@@ -12339,6 +12342,7 @@ starott.com
 starp2p.com
 starplus.com
 starsze.icu
+start.com
 startpage.com
 startpath.com
 startupjournal.com
@@ -13140,6 +13144,7 @@ tumblr.com
 tunsafe.com
 turbogvideos.com
 turborepo.org
+turkeyblocks.org
 tushy.com
 tutanota.com
 tv
@@ -14173,6 +14178,7 @@ xchina.fun
 xcum.com
 xda-cdn.com
 xda-developers.com
+xdaforums.com
 xdir.vip
 xdporner.com
 xdsummit.com
