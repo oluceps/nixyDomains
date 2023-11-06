@@ -86,6 +86,9 @@ widgets.stripst.com
 188channel.com
 18av.pro
 18avx.com
+18comic-god.cc
+18comic-god.club
+18comic-god.xyz
 18comic.cc
 18comic.company
 18comic.org
@@ -463,7 +466,12 @@ addtoany.com
 adgoogle.net
 adguard-dns.com
 adguard-vpn.com
+adguard-vpn.online
+adguard.app
 adguard.com
+adguard.info
+adguard.org
+adguardvpn.com
 adhelpnews.com
 adidas.com
 admeld.com
@@ -513,6 +521,8 @@ ads-twitter.com
 adsense.com
 adsensecustomsearchads.com
 adsenseformobileapps.com
+adtidy.net
+adtidy.org
 adult
 adult-h.com
 adult-home-videos.com
@@ -7299,6 +7309,7 @@ ipfs.anonymize.com
 ipfs.eth.aragon.network
 ipfs.fleek.co
 ipfs.runfission.com
+ipfs.tech
 iphine.com
 iphone-cd.com
 iphone-cn.com
@@ -7651,6 +7662,7 @@ jlc
 jll
 jm
 jm98.cc
+jmcomic.ltd
 jmcomic.me
 jmcomic.mobi
 jmcomic.moe
@@ -9018,6 +9030,7 @@ moxing.mobi
 moxing.news
 moystoys.com
 mozaic
+mozgcp.net
 mozilla.com
 mozilla.community
 mozilla.net
