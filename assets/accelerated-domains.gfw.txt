@@ -3259,8 +3259,6 @@ cmpaas.com
 cms-twdigitalassets.com
 cnbc.com
 cnbcfm.com
-cnbeta.com
-cnbetacdn.com
 cncrivals.com
 cnet.com
 cnix-gov-cn.com
