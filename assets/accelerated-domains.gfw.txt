@@ -2991,6 +2991,7 @@ chartis
 chase
 chat
 chatango.com
+chatgpt.com
 chatr
 chatter.com
 chaturbate.com
@@ -9847,6 +9848,7 @@ o365weve-dev.com
 o365weve-ppe.com
 o365weve.com
 oaistatic.com
+oaiusercontent.com
 oanencore.com
 oann.com
 oath.cloud
