@@ -1,5 +1,6 @@
 adobeereg.com
 anime-rule34-world.b-cdn.net
+bybit.ada.support
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
@@ -2735,13 +2736,18 @@ bwh88.net
 bwh89.net
 bwin.com
 by
+byapis.com
 bybeatsdre.com
+bybit.com
+bycbe.com
+bycsi.com
 bydrebeats.com
 byjav.me
 byjhd.com
 bypasscensorship.org
 byspotify.com
 byteoversea.com
+bytick.com
 bz
 bzazi.com
 bzh
@@ -3675,6 +3681,7 @@ dentalhypotheses.com
 dependabot.com
 deps.dev
 deps.info
+deribit.com
 derpibooru.org
 desertbmw.com
 designeriphonescases.com
@@ -5702,6 +5709,10 @@ garotaporno.com
 garotoesperto.com
 gastrointestinalexam.com
 gate.cc
+gatedata.org
+gateimg.com
+gateio.live
+gateio.services
 gateway.dev
 gateway.pinata.cloud
 gay
