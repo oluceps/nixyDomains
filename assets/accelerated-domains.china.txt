@@ -39875,6 +39875,7 @@ myunke.com
 myunying.com
 myushan.com
 myvactrip.com
+myvs.download.prss.microsoft.com
 mywakao.com
 mywayboo.net
 myweimai.com
@@ -41202,6 +41203,7 @@ oejournal.org
 oelove.com
 oemresource.com
 oemsnavi.com
+oemsoc.download.prss.microsoft.com
 oemssl.cn
 oemssl.cn.cdn.cloudflare.net
 oeob.net
@@ -48797,6 +48799,7 @@ softgostop.com
 softhead-citavi.com
 softhome.cc
 softtest.com
+software.download.prss.microsoft.com
 softwarechn.com
 softwarecn.com
 softwarekeyclub.com
@@ -49808,6 +49811,7 @@ suqishi.com
 suqnn.com
 suremotoo.site
 surerp.com
+surface.downloads.prss.microsoft.com
 surgerycast.com
 surprising.studio
 sursen.com
@@ -54556,6 +54560,7 @@ vyin.com
 vynior.com
 vysj.com
 vyuan8.com
+vz.download.prss.microsoft.com
 vz41.com
 vzan.cc
 vzan.com
