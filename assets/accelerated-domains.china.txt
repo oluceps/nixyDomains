@@ -11674,6 +11674,7 @@ buread.com
 burgud.com
 burl.cc
 burnelltek.com
+burningvocabulary.com
 burongyi.com
 bus365.com
 bus84.com
@@ -24021,7 +24022,6 @@ googleadservices-cn.com
 googleadservices.com
 googleanalytics.com
 googleapis-cn.com
-googleapis.cn
 googleapps-cn.com
 googlebridge.com
 googlecnapps.cn
