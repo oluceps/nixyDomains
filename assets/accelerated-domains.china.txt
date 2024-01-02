@@ -19077,6 +19077,7 @@ downjoy.com
 downkr.com
 downkuai.com
 download.developer.apple.com
+download.jetbrains.com
 download.microsoft.com
 download.mlcc.google.com
 download.qatp1.net
@@ -27557,6 +27558,9 @@ htsec.com
 httingshu.com
 httpcanary.com
 httpcn.com
+httpdns-api.aliyuncs.com
+httpdns-sc.aliyuncs.com
+httpdns.c.cdnhwc2.com
 httpdns.pro
 htucloud.com
 hturl.cc
@@ -34332,6 +34336,7 @@ kuaipng.com
 kuaiqin.com
 kuaishebao.com
 kuaishou.com
+kuaishou.httpdns.pro
 kuaishouapp.com
 kuaishouba.com
 kuaishoupay.com
