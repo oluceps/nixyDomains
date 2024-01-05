@@ -12766,6 +12766,7 @@ cdn-v.com
 cdn.ampproject.org
 cdn.apple-mapkit.com
 cdn.fun
+cdn.jetbrains.com
 cdn.marketplaceimages.windowsphone.com
 cdn.razersynapse.com
 cdn.samsung.com
@@ -19077,7 +19078,6 @@ downjoy.com
 downkr.com
 downkuai.com
 download.developer.apple.com
-download.jetbrains.com
 download.microsoft.com
 download.mlcc.google.com
 download.qatp1.net
