@@ -1,0 +1,8 @@
+A simple flake for freeing from fixing output hash over and over again while using geolocation databases or domain sets.
+
+inputs.nixyDomains.url = "github:oluceps/nixyDomains";
+inputs.nixyDomains.flake = false;
+
+{
+  _ = [ "${inputs.nixyDomains}/assets/geosite.dat" ];
+}
